@@ -1,0 +1,47 @@
+/*!
+ * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+.navbar-brand-name > img {
+    display: inline-block;
+    float: left;
+    width: 45px;
+    padding: 0px 10px 10px 0;
+}  
+
+.navbar {
+      background-color: #2e9afe;
+}
+header {
+    background: #5882FA;
+}
+section.success {
+    color: #000;
+    background: #F2F2F2;
+}
+
+hr.black {
+    border-color: #000;
+}
+footer .footer-above {
+    padding-top: 50px;
+    background-color: #5882FA;
+}
+footer .footer-below {
+    padding: 25px 0;
+    background-color: #2e9afe;
+}
+@media screen and (max-width: 480px) {
+    .navbar-brand {
+	color: #fff !important;
+	float: left;
+	font-size: 12px;
+	margin-right: 0px;
+    }
+}
+
+
+
